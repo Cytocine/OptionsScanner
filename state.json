@@ -1,3 +1,26 @@
 {
-  "positions": {}
+  "positions": {
+    "AAL:call": {
+      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+    },
+    "AMZN:call": {
+      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+    },
+    "ARM:call": {
+      "lastAlertedCrossTime": "2026-09-11T17:00:00Z"
+    },
+    "BAC:call": {
+      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+    },
+    "CSCO:call": {
+      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+    },
+    "OXY:call": {
+      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+    },
+    "WDC:call": {
+      "lastAlertedCrossTime": "2026-09-08T19:00:00Z"
+    }
+  },
+  "lastRun": "2026-09-12T01:54:50.059Z"
 }
