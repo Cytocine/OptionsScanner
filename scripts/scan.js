@@ -195,19 +195,16 @@ async function fetchOptionBars(osiList) {
 
 async function postDiscord(target, crossBar, barsAgo, ema10Last, ema20Last, lastBar) {
   const embed = {
-    title: `🐂 Bullish Cross (Call): ${target.symbol}`,
+    title: `🐂 ${target.symbol}`,
     description: `EMA10 crossed above EMA20 ${barsAgo === 0 ? 'on the latest' : `${barsAgo} candle(s) ago on the`} ${TIMEFRAME} candle.`,
     color: 0x22c55e,
     fields: [
-      { name: 'Contract', value: target.osi, inline: false },
       { name: 'Strike', value: `$${target.strike}`, inline: true },
       { name: 'Expiration', value: `${target.expiration} (${target.dte} DTE)`, inline: true },
-      { name: 'Cross Candle', value: crossBar.t, inline: true },
       { name: 'Last Price', value: lastBar ? `$${lastBar.c.toFixed(2)}` : '—', inline: true },
-      { name: 'EMA10 / EMA20', value: `${ema10Last.toFixed(3)} / ${ema20Last.toFixed(3)}`, inline: true },
+      
     ],
-    timestamp: new Date().toISOString(),
-    footer: { text: `Alpaca ${ALPACA_ENV} · ${OPTION_FEED} feed` },
+    
   };
 
   const res = await fetch(DISCORD_WEBHOOK_URL, {
