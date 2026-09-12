@@ -1,0 +1,12 @@
+{
+  "name": "ema-options-cross-scanner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan": "node scripts/scan.js"
+  }
+}
