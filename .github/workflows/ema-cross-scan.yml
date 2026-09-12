@@ -1,0 +1,52 @@
+name: EMA10/EMA20 Options Cross Scanner
+
+on:
+  schedule:
+    # Runs at :35 past the hour, 13:00-20:00 UTC, Mon-Fri.
+    # That's ~9:35am-4:35pm ET during EDT (UTC-4). During EST (UTC-5, winter),
+    # shift the range to 14-21 instead, or just leave a 1hr pad on either side.
+    - cron: '35 13-20 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ema-cross-scan
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scanner
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ALPACA_ENV: ${{ vars.ALPACA_ENV }}
+          OPTION_FEED: ${{ vars.OPTION_FEED }}
+          TIMEFRAME: ${{ vars.TIMEFRAME }}
+          MIN_DTE: ${{ vars.MIN_DTE }}
+          LOOKBACK_DAYS: ${{ vars.LOOKBACK_DAYS }}
+          BAR_LIMIT: ${{ vars.BAR_LIMIT }}
+          SYMBOLS: ${{ vars.SYMBOLS }}
+        run: node scripts/scan.js
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- state.json; then
+            git add state.json
+            git commit -m "chore: update EMA cross state [skip ci]"
+            git push
+          else
+            echo "No state change."
+          fi
