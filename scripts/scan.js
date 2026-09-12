@@ -35,20 +35,31 @@ import path from 'node:path';
 
 const STATE_PATH = path.join(process.cwd(), 'state.json');
 
-const {
-  ALPACA_API_KEY,
-  ALPACA_SECRET_KEY,
-  DISCORD_WEBHOOK_URL,
-  ALPACA_ENV = 'paper',
-  OPTION_FEED = 'indicative',
-  TIMEFRAME = '1Hour',
-  MIN_DTE = '14',
-  LOOKBACK_DAYS = '30',
-  BAR_LIMIT = '500',
-  CROSS_LOOKBACK_BARS = '3',
-  MIN_BARS = '25',
-  SYMBOLS = 'NVDA,TSLA,AAPL,AMZN,MSFT,META,AMD,PLTR,INTC,MU,GOOGL,NFLX,SOFI,ORCL,COIN,BABA,MARA,AVGO,DIS,F,SPY,IWM,QQQ,HOOD,JPM,C,BAC,XOM,OXY,UBER,ENPH,COST,NKE,LLY,MRK',
-} = process.env;
+// GitHub Actions renders an unset `vars.X` as an empty string, not undefined,
+// so plain destructuring defaults (`X = 'default'`) don't catch it — only
+// `undefined` triggers those. Use this helper for every optional env var so
+// a blank repo/environment Variable falls back to the default instead of
+// silently becoming ''.
+function envOr(value, fallback) {
+  return value === undefined || value === '' ? fallback : value;
+}
+
+const env = process.env;
+const ALPACA_API_KEY = env.ALPACA_API_KEY;
+const ALPACA_SECRET_KEY = env.ALPACA_SECRET_KEY;
+const DISCORD_WEBHOOK_URL = env.DISCORD_WEBHOOK_URL;
+const ALPACA_ENV = envOr(env.ALPACA_ENV, 'paper');
+const OPTION_FEED = envOr(env.OPTION_FEED, 'indicative');
+const TIMEFRAME = envOr(env.TIMEFRAME, '1Hour');
+const MIN_DTE = envOr(env.MIN_DTE, '14');
+const LOOKBACK_DAYS = envOr(env.LOOKBACK_DAYS, '30');
+const BAR_LIMIT = envOr(env.BAR_LIMIT, '500');
+const CROSS_LOOKBACK_BARS = envOr(env.CROSS_LOOKBACK_BARS, '3');
+const MIN_BARS = envOr(env.MIN_BARS, '25');
+const SYMBOLS = envOr(
+  env.SYMBOLS,
+  'NVDA,TSLA,AAPL,AMZN,MSFT,META,AMD,PLTR,INTC,MU,GOOGL,NFLX,SOFI,ORCL,COIN,BABA,MARA,AVGO,DIS,F,SPY,IWM,QQQ,HOOD,JPM,C,BAC,XOM,OXY,UBER,ENPH,COST,NKE,LLY,MRK'
+);
 
 if (!ALPACA_API_KEY || !ALPACA_SECRET_KEY) {
   console.error('Missing ALPACA_API_KEY / ALPACA_SECRET_KEY');
