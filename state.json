@@ -1,7 +1,7 @@
 {
   "positions": {
     "AAL:call": {
-      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+      "lastAlertedCrossTime": "2026-09-14T17:00:00Z"
     },
     "AMZN:call": {
       "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
@@ -16,11 +16,23 @@
       "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
     },
     "OXY:call": {
-      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+      "lastAlertedCrossTime": "2026-09-14T13:00:00Z"
     },
     "WDC:call": {
       "lastAlertedCrossTime": "2026-09-08T19:00:00Z"
+    },
+    "DIS:call": {
+      "lastAlertedCrossTime": "2026-09-14T15:00:00Z"
+    },
+    "HIMS:call": {
+      "lastAlertedCrossTime": "2026-09-14T16:00:00Z"
+    },
+    "NOW:call": {
+      "lastAlertedCrossTime": "2026-09-14T17:00:00Z"
+    },
+    "PLTR:call": {
+      "lastAlertedCrossTime": "2026-09-14T18:00:00Z"
     }
   },
-  "lastRun": "2026-09-13T02:20:37.858Z"
+  "lastRun": "2026-09-14T18:49:58.899Z"
 }
