@@ -44,7 +44,13 @@
     },
     "KO:call": {
       "lastAlertedCrossTime": "2026-09-15T18:00:00Z"
+    },
+    "DDOG:call": {
+      "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
+    },
+    "DOW:call": {
+      "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
     }
   },
-  "lastRun": "2026-09-16T17:42:36.017Z"
+  "lastRun": "2026-09-16T21:36:11.863Z"
 }
