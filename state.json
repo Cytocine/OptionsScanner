@@ -7,7 +7,7 @@
       "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
     },
     "ARM:call": {
-      "lastAlertedCrossTime": "2026-09-11T17:00:00Z"
+      "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
     },
     "BAC:call": {
       "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
@@ -52,7 +52,7 @@
       "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
     },
     "AAPL:call": {
-      "lastAlertedCrossTime": "2026-09-17T15:00:00Z"
+      "lastAlertedCrossTime": "2026-09-17T18:00:00Z"
     },
     "HPE:call": {
       "lastAlertedCrossTime": "2026-09-17T14:00:00Z"
@@ -79,5 +79,5 @@
       "lastAlertedCrossTime": "2026-09-17T17:00:00Z"
     }
   },
-  "lastRun": "2026-09-17T17:43:17.242Z"
+  "lastRun": "2026-09-17T21:38:57.431Z"
 }
