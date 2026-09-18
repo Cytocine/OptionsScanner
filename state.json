@@ -4,7 +4,7 @@
       "lastAlertedCrossTime": "2026-09-14T17:00:00Z"
     },
     "AMZN:call": {
-      "lastAlertedCrossTime": "2026-09-11T18:00:00Z"
+      "lastAlertedCrossTime": "2026-09-18T15:00:00Z"
     },
     "ARM:call": {
       "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
@@ -77,7 +77,28 @@
     },
     "TSM:call": {
       "lastAlertedCrossTime": "2026-09-17T17:00:00Z"
+    },
+    "BABA:call": {
+      "lastAlertedCrossTime": "2026-09-18T16:00:00Z"
+    },
+    "BMNR:call": {
+      "lastAlertedCrossTime": "2026-09-18T15:00:00Z"
+    },
+    "COIN:call": {
+      "lastAlertedCrossTime": "2026-09-18T14:00:00Z"
+    },
+    "HOOD:call": {
+      "lastAlertedCrossTime": "2026-09-18T14:00:00Z"
+    },
+    "IREN:call": {
+      "lastAlertedCrossTime": "2026-09-18T14:00:00Z"
+    },
+    "LULU:call": {
+      "lastAlertedCrossTime": "2026-09-18T16:00:00Z"
+    },
+    "SNDK:call": {
+      "lastAlertedCrossTime": "2026-09-18T16:00:00Z"
     }
   },
-  "lastRun": "2026-09-17T21:38:57.431Z"
+  "lastRun": "2026-09-18T17:09:52.281Z"
 }
