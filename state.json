@@ -98,7 +98,16 @@
     },
     "SNDK:call": {
       "lastAlertedCrossTime": "2026-09-18T19:00:00Z"
+    },
+    "CRWV:call": {
+      "lastAlertedCrossTime": "2026-09-21T18:00:00Z"
+    },
+    "IONQ:call": {
+      "lastAlertedCrossTime": "2026-09-21T17:00:00Z"
+    },
+    "USAR:call": {
+      "lastAlertedCrossTime": "2026-09-21T17:00:00Z"
     }
   },
-  "lastRun": "2026-09-18T22:46:04.404Z"
+  "lastRun": "2026-09-21T18:52:54.018Z"
 }
