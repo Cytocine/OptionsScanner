@@ -43,7 +43,7 @@
       "lastAlertedCrossTime": "2026-09-16T16:00:00Z"
     },
     "KO:call": {
-      "lastAlertedCrossTime": "2026-09-15T18:00:00Z"
+      "lastAlertedCrossTime": "2026-09-22T19:00:00Z"
     },
     "DDOG:call": {
       "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
@@ -64,7 +64,7 @@
       "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
     },
     "ORCL:call": {
-      "lastAlertedCrossTime": "2026-09-17T17:00:00Z"
+      "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
     },
     "RGTI:call": {
       "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
@@ -122,7 +122,22 @@
     },
     "WMT:call": {
       "lastAlertedCrossTime": "2026-09-22T15:00:00Z"
+    },
+    "ASTS:call": {
+      "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
+    },
+    "MRK:call": {
+      "lastAlertedCrossTime": "2026-09-22T15:00:00Z"
+    },
+    "NOK:call": {
+      "lastAlertedCrossTime": "2026-09-22T19:00:00Z"
+    },
+    "OPEN:call": {
+      "lastAlertedCrossTime": "2026-09-22T19:00:00Z"
+    },
+    "PFE:call": {
+      "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
     }
   },
-  "lastRun": "2026-09-22T17:43:26.923Z"
+  "lastRun": "2026-09-22T21:36:07.852Z"
 }
