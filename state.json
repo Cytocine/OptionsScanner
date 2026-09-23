@@ -28,7 +28,7 @@
       "lastAlertedCrossTime": "2026-09-14T16:00:00Z"
     },
     "NOW:call": {
-      "lastAlertedCrossTime": "2026-09-14T17:00:00Z"
+      "lastAlertedCrossTime": "2026-09-23T16:00:00Z"
     },
     "PLTR:call": {
       "lastAlertedCrossTime": "2026-09-14T18:00:00Z"
@@ -124,7 +124,7 @@
       "lastAlertedCrossTime": "2026-09-22T15:00:00Z"
     },
     "ASTS:call": {
-      "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
+      "lastAlertedCrossTime": "2026-09-22T17:00:00Z"
     },
     "MRK:call": {
       "lastAlertedCrossTime": "2026-09-22T15:00:00Z"
@@ -137,7 +137,10 @@
     },
     "PFE:call": {
       "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
+    },
+    "PBR:call": {
+      "lastAlertedCrossTime": "2026-09-23T17:00:00Z"
     }
   },
-  "lastRun": "2026-09-22T21:36:07.852Z"
+  "lastRun": "2026-09-23T17:55:36.318Z"
 }
