@@ -67,7 +67,7 @@
       "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
     },
     "RGTI:call": {
-      "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
+      "lastAlertedCrossTime": "2026-09-24T18:00:00Z"
     },
     "RIOT:call": {
       "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
@@ -115,7 +115,7 @@
       "lastAlertedCrossTime": "2026-09-22T14:00:00Z"
     },
     "ONDS:call": {
-      "lastAlertedCrossTime": "2026-09-22T15:00:00Z"
+      "lastAlertedCrossTime": "2026-09-24T18:00:00Z"
     },
     "SOFI:call": {
       "lastAlertedCrossTime": "2026-09-22T16:00:00Z"
@@ -146,7 +146,13 @@
     },
     "LLY:call": {
       "lastAlertedCrossTime": "2026-09-24T15:00:00Z"
+    },
+    "CRCL:call": {
+      "lastAlertedCrossTime": "2026-09-24T18:00:00Z"
+    },
+    "TSLA:call": {
+      "lastAlertedCrossTime": "2026-09-24T17:00:00Z"
     }
   },
-  "lastRun": "2026-09-24T17:55:25.097Z"
+  "lastRun": "2026-09-24T21:43:25.622Z"
 }
