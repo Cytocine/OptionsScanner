@@ -52,7 +52,7 @@
       "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
     },
     "AAPL:call": {
-      "lastAlertedCrossTime": "2026-09-17T18:00:00Z"
+      "lastAlertedCrossTime": "2026-09-25T19:00:00Z"
     },
     "HPE:call": {
       "lastAlertedCrossTime": "2026-09-17T14:00:00Z"
@@ -167,7 +167,10 @@
     },
     "RIVN:call": {
       "lastAlertedCrossTime": "2026-09-25T16:00:00Z"
+    },
+    "SPY:call": {
+      "lastAlertedCrossTime": "2026-09-25T18:00:00Z"
     }
   },
-  "lastRun": "2026-09-25T18:02:33.051Z"
+  "lastRun": "2026-09-25T21:46:18.162Z"
 }
