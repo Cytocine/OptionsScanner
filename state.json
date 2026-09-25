@@ -1,7 +1,7 @@
 {
   "positions": {
     "AAL:call": {
-      "lastAlertedCrossTime": "2026-09-14T17:00:00Z"
+      "lastAlertedCrossTime": "2026-09-25T15:00:00Z"
     },
     "AMZN:call": {
       "lastAlertedCrossTime": "2026-09-18T15:00:00Z"
@@ -152,7 +152,22 @@
     },
     "TSLA:call": {
       "lastAlertedCrossTime": "2026-09-24T17:00:00Z"
+    },
+    "BE:call": {
+      "lastAlertedCrossTime": "2026-09-25T15:00:00Z"
+    },
+    "COST:call": {
+      "lastAlertedCrossTime": "2026-09-25T16:00:00Z"
+    },
+    "DELL:call": {
+      "lastAlertedCrossTime": "2026-09-25T17:00:00Z"
+    },
+    "MRVL:call": {
+      "lastAlertedCrossTime": "2026-09-25T15:00:00Z"
+    },
+    "RIVN:call": {
+      "lastAlertedCrossTime": "2026-09-25T16:00:00Z"
     }
   },
-  "lastRun": "2026-09-24T21:43:25.622Z"
+  "lastRun": "2026-09-25T18:02:33.051Z"
 }
