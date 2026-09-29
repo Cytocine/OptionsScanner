@@ -172,8 +172,11 @@
       "lastAlertedCrossTime": "2026-09-25T18:00:00Z"
     },
     "CRWD:call": {
-      "lastAlertedCrossTime": "2026-09-28T19:00:00Z"
+      "lastAlertedCrossTime": "2026-09-29T17:00:00Z"
+    },
+    "NBIS:call": {
+      "lastAlertedCrossTime": "2026-09-29T17:00:00Z"
     }
   },
-  "lastRun": "2026-09-29T00:29:36.821Z"
+  "lastRun": "2026-09-29T18:49:14.642Z"
 }
