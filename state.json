@@ -28,7 +28,7 @@
       "lastAlertedCrossTime": "2026-09-14T16:00:00Z"
     },
     "NOW:call": {
-      "lastAlertedCrossTime": "2026-10-07T16:00:00Z"
+      "lastAlertedCrossTime": "2026-10-08T19:00:00Z"
     },
     "PLTR:call": {
       "lastAlertedCrossTime": "2026-10-06T17:00:00Z"
@@ -229,5 +229,5 @@
       "lastAlertedCrossTime": "2026-10-08T18:00:00Z"
     }
   },
-  "lastRun": "2026-10-08T19:23:03.048Z"
+  "lastRun": "2026-10-08T23:52:31.022Z"
 }
