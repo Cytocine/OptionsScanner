@@ -64,7 +64,7 @@
       "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
     },
     "ORCL:call": {
-      "lastAlertedCrossTime": "2026-09-22T18:00:00Z"
+      "lastAlertedCrossTime": "2026-10-13T18:00:00Z"
     },
     "RGTI:call": {
       "lastAlertedCrossTime": "2026-09-24T18:00:00Z"
@@ -112,7 +112,7 @@
       "lastAlertedCrossTime": "2026-10-02T18:00:00Z"
     },
     "NIO:call": {
-      "lastAlertedCrossTime": "2026-10-07T15:00:00Z"
+      "lastAlertedCrossTime": "2026-10-13T18:00:00Z"
     },
     "ONDS:call": {
       "lastAlertedCrossTime": "2026-09-28T17:00:00Z"
@@ -238,5 +238,5 @@
       "lastAlertedCrossTime": "2026-10-09T17:00:00Z"
     }
   },
-  "lastRun": "2026-10-12T21:49:53.325Z"
+  "lastRun": "2026-10-13T19:56:31.219Z"
 }
