@@ -49,7 +49,7 @@
       "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
     },
     "DOW:call": {
-      "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
+      "lastAlertedCrossTime": "2026-10-14T14:00:00Z"
     },
     "AAPL:call": {
       "lastAlertedCrossTime": "2026-09-25T19:00:00Z"
@@ -109,7 +109,7 @@
       "lastAlertedCrossTime": "2026-09-21T17:00:00Z"
     },
     "FAST:call": {
-      "lastAlertedCrossTime": "2026-10-02T18:00:00Z"
+      "lastAlertedCrossTime": "2026-10-14T17:00:00Z"
     },
     "NIO:call": {
       "lastAlertedCrossTime": "2026-10-13T18:00:00Z"
@@ -238,5 +238,5 @@
       "lastAlertedCrossTime": "2026-10-09T17:00:00Z"
     }
   },
-  "lastRun": "2026-10-13T23:49:23.730Z"
+  "lastRun": "2026-10-14T18:08:24.246Z"
 }
