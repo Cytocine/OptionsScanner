@@ -85,7 +85,7 @@
       "lastAlertedCrossTime": "2026-09-18T15:00:00Z"
     },
     "COIN:call": {
-      "lastAlertedCrossTime": "2026-09-18T14:00:00Z"
+      "lastAlertedCrossTime": "2026-10-15T18:00:00Z"
     },
     "HOOD:call": {
       "lastAlertedCrossTime": "2026-09-18T14:00:00Z"
@@ -133,7 +133,7 @@
       "lastAlertedCrossTime": "2026-09-22T19:00:00Z"
     },
     "OPEN:call": {
-      "lastAlertedCrossTime": "2026-10-02T16:00:00Z"
+      "lastAlertedCrossTime": "2026-10-15T17:00:00Z"
     },
     "PFE:call": {
       "lastAlertedCrossTime": "2026-10-07T17:00:00Z"
@@ -148,7 +148,7 @@
       "lastAlertedCrossTime": "2026-10-07T15:00:00Z"
     },
     "CRCL:call": {
-      "lastAlertedCrossTime": "2026-10-15T17:00:00Z"
+      "lastAlertedCrossTime": "2026-10-15T19:00:00Z"
     },
     "TSLA:call": {
       "lastAlertedCrossTime": "2026-09-24T17:00:00Z"
@@ -211,7 +211,7 @@
       "lastAlertedCrossTime": "2026-10-05T18:00:00Z"
     },
     "UBER:call": {
-      "lastAlertedCrossTime": "2026-10-08T19:00:00Z"
+      "lastAlertedCrossTime": "2026-10-15T19:00:00Z"
     },
     "PYPL:call": {
       "lastAlertedCrossTime": "2026-10-15T14:00:00Z"
@@ -245,7 +245,10 @@
     },
     "T:call": {
       "lastAlertedCrossTime": "2026-10-15T15:00:00Z"
+    },
+    "APP:call": {
+      "lastAlertedCrossTime": "2026-10-15T19:00:00Z"
     }
   },
-  "lastRun": "2026-10-15T17:51:33.569Z"
+  "lastRun": "2026-10-15T21:40:33.073Z"
 }
