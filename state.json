@@ -196,7 +196,7 @@
       "lastAlertedCrossTime": "2026-10-08T19:00:00Z"
     },
     "NU:call": {
-      "lastAlertedCrossTime": "2026-10-01T17:00:00Z"
+      "lastAlertedCrossTime": "2026-10-20T18:00:00Z"
     },
     "ONON:call": {
       "lastAlertedCrossTime": "2026-10-01T16:00:00Z"
@@ -256,5 +256,5 @@
       "lastAlertedCrossTime": "2026-10-20T15:00:00Z"
     }
   },
-  "lastRun": "2026-10-20T18:05:01.812Z"
+  "lastRun": "2026-10-20T21:48:31.847Z"
 }
