@@ -13,7 +13,7 @@
       "lastAlertedCrossTime": "2026-10-09T17:00:00Z"
     },
     "CSCO:call": {
-      "lastAlertedCrossTime": "2026-09-30T16:00:00Z"
+      "lastAlertedCrossTime": "2026-10-26T16:00:00Z"
     },
     "OXY:call": {
       "lastAlertedCrossTime": "2026-10-16T16:00:00Z"
@@ -31,7 +31,7 @@
       "lastAlertedCrossTime": "2026-10-14T19:00:00Z"
     },
     "PLTR:call": {
-      "lastAlertedCrossTime": "2026-10-21T15:00:00Z"
+      "lastAlertedCrossTime": "2026-10-26T17:00:00Z"
     },
     "AI:call": {
       "lastAlertedCrossTime": "2026-10-09T15:00:00Z"
@@ -262,11 +262,14 @@
       "lastAlertedCrossTime": "2026-10-21T15:00:00Z"
     },
     "RKLB:call": {
-      "lastAlertedCrossTime": "2026-10-21T18:00:00Z"
+      "lastAlertedCrossTime": "2026-10-26T15:00:00Z"
     },
     "TTD:call": {
       "lastAlertedCrossTime": "2026-10-22T18:00:00Z"
+    },
+    "WULF:call": {
+      "lastAlertedCrossTime": "2026-10-26T19:00:00Z"
     }
   },
-  "lastRun": "2026-10-23T21:35:31.145Z"
+  "lastRun": "2026-10-26T19:30:35.480Z"
 }
