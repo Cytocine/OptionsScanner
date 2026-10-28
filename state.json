@@ -272,7 +272,10 @@
     },
     "SMCI:call": {
       "lastAlertedCrossTime": "2026-10-27T16:00:00Z"
+    },
+    "CIFR:call": {
+      "lastAlertedCrossTime": "2026-10-28T19:00:00Z"
     }
   },
-  "lastRun": "2026-10-28T19:02:14.005Z"
+  "lastRun": "2026-10-28T23:26:52.885Z"
 }
