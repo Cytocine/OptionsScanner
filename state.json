@@ -7,7 +7,7 @@
       "lastAlertedCrossTime": "2026-10-02T16:00:00Z"
     },
     "ARM:call": {
-      "lastAlertedCrossTime": "2026-10-02T15:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T16:00:00Z"
     },
     "BAC:call": {
       "lastAlertedCrossTime": "2026-10-09T17:00:00Z"
@@ -19,7 +19,7 @@
       "lastAlertedCrossTime": "2026-10-16T16:00:00Z"
     },
     "WDC:call": {
-      "lastAlertedCrossTime": "2026-09-23T18:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T15:00:00Z"
     },
     "DIS:call": {
       "lastAlertedCrossTime": "2026-09-30T16:00:00Z"
@@ -64,13 +64,13 @@
       "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
     },
     "ORCL:call": {
-      "lastAlertedCrossTime": "2026-10-27T18:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T18:00:00Z"
     },
     "RGTI:call": {
       "lastAlertedCrossTime": "2026-10-27T19:00:00Z"
     },
     "RIOT:call": {
-      "lastAlertedCrossTime": "2026-09-17T16:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T18:00:00Z"
     },
     "SMR:call": {
       "lastAlertedCrossTime": "2026-10-06T17:00:00Z"
@@ -190,7 +190,7 @@
       "lastAlertedCrossTime": "2026-10-01T17:00:00Z"
     },
     "MRNA:call": {
-      "lastAlertedCrossTime": "2026-10-01T14:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T18:00:00Z"
     },
     "NKE:call": {
       "lastAlertedCrossTime": "2026-10-08T19:00:00Z"
@@ -241,7 +241,7 @@
       "lastAlertedCrossTime": "2026-10-15T13:00:00Z"
     },
     "F:call": {
-      "lastAlertedCrossTime": "2026-10-15T15:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T16:00:00Z"
     },
     "T:call": {
       "lastAlertedCrossTime": "2026-10-15T15:00:00Z"
@@ -256,7 +256,7 @@
       "lastAlertedCrossTime": "2026-10-20T15:00:00Z"
     },
     "APLD:call": {
-      "lastAlertedCrossTime": "2026-10-21T15:00:00Z"
+      "lastAlertedCrossTime": "2026-10-28T18:00:00Z"
     },
     "LITE:call": {
       "lastAlertedCrossTime": "2026-10-21T15:00:00Z"
@@ -274,5 +274,5 @@
       "lastAlertedCrossTime": "2026-10-27T16:00:00Z"
     }
   },
-  "lastRun": "2026-10-27T23:04:57.725Z"
+  "lastRun": "2026-10-28T19:02:14.005Z"
 }
