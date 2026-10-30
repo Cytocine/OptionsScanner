@@ -157,7 +157,7 @@
       "lastAlertedCrossTime": "2026-10-02T18:00:00Z"
     },
     "COST:call": {
-      "lastAlertedCrossTime": "2026-09-29T19:00:00Z"
+      "lastAlertedCrossTime": "2026-10-30T15:00:00Z"
     },
     "DELL:call": {
       "lastAlertedCrossTime": "2026-10-09T19:00:00Z"
@@ -280,5 +280,5 @@
       "lastAlertedCrossTime": "2026-10-29T16:00:00Z"
     }
   },
-  "lastRun": "2026-10-30T18:47:05.132Z"
+  "lastRun": "2026-10-30T23:07:54.987Z"
 }
