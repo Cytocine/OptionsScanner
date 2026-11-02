@@ -79,7 +79,7 @@
       "lastAlertedCrossTime": "2026-10-26T17:00:00Z"
     },
     "BABA:call": {
-      "lastAlertedCrossTime": "2026-10-09T16:00:00Z"
+      "lastAlertedCrossTime": "2026-11-02T16:00:00Z"
     },
     "BMNR:call": {
       "lastAlertedCrossTime": "2026-10-21T19:00:00Z"
@@ -178,7 +178,7 @@
       "lastAlertedCrossTime": "2026-10-27T17:00:00Z"
     },
     "ADBE:call": {
-      "lastAlertedCrossTime": "2026-09-30T17:00:00Z"
+      "lastAlertedCrossTime": "2026-11-02T16:00:00Z"
     },
     "WBD:call": {
       "lastAlertedCrossTime": "2026-10-02T14:00:00Z"
@@ -229,13 +229,13 @@
       "lastAlertedCrossTime": "2026-10-08T18:00:00Z"
     },
     "C:call": {
-      "lastAlertedCrossTime": "2026-10-29T16:00:00Z"
+      "lastAlertedCrossTime": "2026-11-02T15:00:00Z"
     },
     "MSFT:call": {
       "lastAlertedCrossTime": "2026-10-09T17:00:00Z"
     },
     "PCG:call": {
-      "lastAlertedCrossTime": "2026-10-29T14:00:00Z"
+      "lastAlertedCrossTime": "2026-11-02T18:00:00Z"
     },
     "AON:call": {
       "lastAlertedCrossTime": "2026-10-15T13:00:00Z"
@@ -278,7 +278,13 @@
     },
     "IBM:call": {
       "lastAlertedCrossTime": "2026-10-29T16:00:00Z"
+    },
+    "SE:call": {
+      "lastAlertedCrossTime": "2026-11-02T18:00:00Z"
+    },
+    "SKHY:call": {
+      "lastAlertedCrossTime": "2026-11-02T14:00:00Z"
     }
   },
-  "lastRun": "2026-10-30T23:07:54.987Z"
+  "lastRun": "2026-11-02T22:26:53.327Z"
 }
