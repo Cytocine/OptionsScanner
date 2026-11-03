@@ -154,7 +154,7 @@
       "lastAlertedCrossTime": "2026-09-24T17:00:00Z"
     },
     "BE:call": {
-      "lastAlertedCrossTime": "2026-10-02T18:00:00Z"
+      "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
     },
     "COST:call": {
       "lastAlertedCrossTime": "2026-10-30T15:00:00Z"
@@ -268,13 +268,13 @@
       "lastAlertedCrossTime": "2026-10-29T16:00:00Z"
     },
     "WULF:call": {
-      "lastAlertedCrossTime": "2026-10-26T19:00:00Z"
+      "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
     },
     "SMCI:call": {
       "lastAlertedCrossTime": "2026-10-27T16:00:00Z"
     },
     "CIFR:call": {
-      "lastAlertedCrossTime": "2026-10-28T19:00:00Z"
+      "lastAlertedCrossTime": "2026-11-03T19:00:00Z"
     },
     "IBM:call": {
       "lastAlertedCrossTime": "2026-10-29T16:00:00Z"
@@ -284,7 +284,19 @@
     },
     "SKHY:call": {
       "lastAlertedCrossTime": "2026-11-02T14:00:00Z"
+    },
+    "CLSK:call": {
+      "lastAlertedCrossTime": "2026-11-03T19:00:00Z"
+    },
+    "GME:call": {
+      "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
+    },
+    "MARA:call": {
+      "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
+    },
+    "NFLX:call": {
+      "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
     }
   },
-  "lastRun": "2026-11-02T22:26:53.327Z"
+  "lastRun": "2026-11-03T20:14:52.735Z"
 }
