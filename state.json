@@ -82,7 +82,7 @@
       "lastAlertedCrossTime": "2026-11-02T16:00:00Z"
     },
     "BMNR:call": {
-      "lastAlertedCrossTime": "2026-10-21T19:00:00Z"
+      "lastAlertedCrossTime": "2026-11-04T17:00:00Z"
     },
     "COIN:call": {
       "lastAlertedCrossTime": "2026-10-21T17:00:00Z"
@@ -127,7 +127,7 @@
       "lastAlertedCrossTime": "2026-09-22T17:00:00Z"
     },
     "MRK:call": {
-      "lastAlertedCrossTime": "2026-09-22T15:00:00Z"
+      "lastAlertedCrossTime": "2026-11-04T20:00:00Z"
     },
     "NOK:call": {
       "lastAlertedCrossTime": "2026-10-27T19:00:00Z"
@@ -220,7 +220,7 @@
       "lastAlertedCrossTime": "2026-10-06T13:00:00Z"
     },
     "UNH:call": {
-      "lastAlertedCrossTime": "2026-11-04T19:00:00Z"
+      "lastAlertedCrossTime": "2026-11-04T18:00:00Z"
     },
     "NVO:call": {
       "lastAlertedCrossTime": "2026-10-07T19:00:00Z"
@@ -298,5 +298,5 @@
       "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
     }
   },
-  "lastRun": "2026-11-04T20:30:45.151Z"
+  "lastRun": "2026-11-05T01:00:05.490Z"
 }
