@@ -100,7 +100,7 @@
       "lastAlertedCrossTime": "2026-09-18T19:00:00Z"
     },
     "CRWV:call": {
-      "lastAlertedCrossTime": "2026-11-09T20:00:00Z"
+      "lastAlertedCrossTime": "2026-11-10T20:00:00Z"
     },
     "IONQ:call": {
       "lastAlertedCrossTime": "2026-11-06T19:00:00Z"
@@ -296,7 +296,10 @@
     },
     "NFLX:call": {
       "lastAlertedCrossTime": "2026-11-03T18:00:00Z"
+    },
+    "IWM:call": {
+      "lastAlertedCrossTime": "2026-11-10T20:00:00Z"
     }
   },
-  "lastRun": "2026-11-10T20:33:57.551Z"
+  "lastRun": "2026-11-11T00:51:14.932Z"
 }
