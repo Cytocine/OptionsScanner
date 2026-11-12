@@ -13,7 +13,7 @@
       "lastAlertedCrossTime": "2026-10-09T17:00:00Z"
     },
     "CSCO:call": {
-      "lastAlertedCrossTime": "2026-10-26T18:00:00Z"
+      "lastAlertedCrossTime": "2026-11-12T19:00:00Z"
     },
     "OXY:call": {
       "lastAlertedCrossTime": "2026-10-30T17:00:00Z"
@@ -49,7 +49,7 @@
       "lastAlertedCrossTime": "2026-09-16T19:00:00Z"
     },
     "DOW:call": {
-      "lastAlertedCrossTime": "2026-10-14T14:00:00Z"
+      "lastAlertedCrossTime": "2026-11-12T18:00:00Z"
     },
     "AAPL:call": {
       "lastAlertedCrossTime": "2026-09-25T19:00:00Z"
@@ -184,7 +184,7 @@
       "lastAlertedCrossTime": "2026-10-02T14:00:00Z"
     },
     "XOM:call": {
-      "lastAlertedCrossTime": "2026-10-22T19:00:00Z"
+      "lastAlertedCrossTime": "2026-11-12T18:00:00Z"
     },
     "HPQ:call": {
       "lastAlertedCrossTime": "2026-10-01T17:00:00Z"
@@ -220,7 +220,7 @@
       "lastAlertedCrossTime": "2026-11-11T20:00:00Z"
     },
     "UNH:call": {
-      "lastAlertedCrossTime": "2026-11-05T14:00:00Z"
+      "lastAlertedCrossTime": "2026-11-12T20:00:00Z"
     },
     "NVO:call": {
       "lastAlertedCrossTime": "2026-10-07T19:00:00Z"
@@ -299,7 +299,10 @@
     },
     "IWM:call": {
       "lastAlertedCrossTime": "2026-11-10T20:00:00Z"
+    },
+    "SNAP:call": {
+      "lastAlertedCrossTime": "2026-11-11T20:00:00Z"
     }
   },
-  "lastRun": "2026-11-12T01:58:57.322Z"
+  "lastRun": "2026-11-12T21:01:53.313Z"
 }
