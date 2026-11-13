@@ -302,7 +302,10 @@
     },
     "SNAP:call": {
       "lastAlertedCrossTime": "2026-11-11T20:00:00Z"
+    },
+    "META:call": {
+      "lastAlertedCrossTime": "2026-11-13T19:00:00Z"
     }
   },
-  "lastRun": "2026-11-12T21:01:53.313Z"
+  "lastRun": "2026-11-13T20:37:35.421Z"
 }
