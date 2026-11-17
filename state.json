@@ -305,7 +305,10 @@
     },
     "META:call": {
       "lastAlertedCrossTime": "2026-11-13T19:00:00Z"
+    },
+    "CVX:call": {
+      "lastAlertedCrossTime": "2026-11-17T14:00:00Z"
     }
   },
-  "lastRun": "2026-11-16T22:59:19.934Z"
+  "lastRun": "2026-11-17T21:52:11.664Z"
 }
